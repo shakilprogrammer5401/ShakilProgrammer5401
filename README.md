@@ -67,7 +67,9 @@ Skills: C / C++ / Java / PYTHON / NEXT JS/ REACT / JS / TAILWIND CSS/ BOOTSTRAP 
 <!-- [![Weblitical](https://github-readme-stats.vercel.app/api/pin/?username=shakilprogrammer5401&repo=weblitical&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/shakilprogrammer5401/weblitical) -->
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=shakilprogrammer5401&theme=dark)](https://git.io/streak-stats)
+<img align="center" src="https://camo.githubusercontent.com/9c130d0b45942f3866bc65f70db7694254fc5389ef8b71cbd68c29ca022b0b8b/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d61736875746f73682d706d697368726126" alt="shakilprogrammer5401" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=shakilprogrammer5401&amp;" style="max-width: 100%;">
+
+
 
 <p align="left">
   <a href="https://github.com/shakilprogrammer5401?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
