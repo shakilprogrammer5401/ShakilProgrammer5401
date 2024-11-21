@@ -12,7 +12,7 @@ Skills: C / C++ / Java / PYTHON / NEXT JS/ REACT / JS / TAILWIND CSS/ BOOTSTRAP 
 
 </div>
 
-- 🎓 I’m currently a student at [Hablu Programmer](https://www.hablu-programmer.com/) -- Hablu Programmer, learning programming and improving my skills in web development.
+- 🎓 I’m currently a student at [Hablu Programmer](https://www.hablu-programmer.com/) learning programming and improving my skills in web development.
 
 - 🌱 I’m currently learning FullStack Web Development
 
