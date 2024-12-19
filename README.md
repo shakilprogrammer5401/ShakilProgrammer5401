@@ -24,12 +24,12 @@ Skills: C / C++ / Java / PYTHON / NEXT JS/ REACT / JS / TAILWIND CSS/ BOOTSTRAP 
 
 - 📫 How to reach me **shakilhossain.developer@gmail.com**
 
-- 📄 All About Me:[https://lnk.bio/shakilprogrammerr](https://lnk.bio/shakilprogrammerr)
+- 📄 All About Me:[https://lnk.bio/shakilprogrammer](https://lnk.bio/shakilprogrammer)
 
 <h3 align="left">Connect with me:</h3>
 
 <p align="center">
-<a href="https://fb.com/shakilprogrammerr/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shakilprogrammerr" height="30" width="40" /></a>
+<a href="https://fb.com/shakilprogrammer/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shakilprogrammerr" height="30" width="40" /></a>
 <a href="https://twitter.com/shakilpro5401" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shakilpro5401" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shakilprogrammerr/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shakilprogrammerr/" height="30" width="40" /></a>
 </p>
